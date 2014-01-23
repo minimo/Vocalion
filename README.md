@@ -1,2 +1,1 @@
-Vocalion
-========
+MobileDiva Vocalion========機動歌姫ヴォーカリオン作るか分からないけど準備だけ。
